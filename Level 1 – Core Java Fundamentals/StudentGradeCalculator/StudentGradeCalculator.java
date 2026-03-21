@@ -160,7 +160,7 @@ public class StudentGradeCalculator {
                 case 1:
                     calculator.addStudentGrades();
                     calculator.calculateAverages();
-                    System.out.println("✅ Grades added successfully!");
+                    System.out.println("Grades added successfully!");
                     break;
 
                 case 2:
