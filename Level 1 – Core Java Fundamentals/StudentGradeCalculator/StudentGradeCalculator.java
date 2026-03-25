@@ -106,7 +106,7 @@ public class StudentGradeCalculator {
         System.out.println("Class Average: " + String.format("%.2f", classAverage));
     }
 
-    // Display individual student details
+
     public void displayStudentDetails() {
         Scanner sc = new Scanner(System.in);
         System.out.print("\nEnter student name to view details: ");
