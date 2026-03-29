@@ -1,0 +1,14 @@
+========== Contact Export ==========
+Total Contacts: 2
+=====================================
+
+Name: Krishna Shalawadi
+Email: krishnashalawadi27@gmail.com
+Phone: 8296949050
+Address: Bengaluru
+-------------------------------------
+Name: Akash Handi
+Email: akashh@gmail.com
+Phone: 9834787854
+Address: Bengaluru
+-------------------------------------
