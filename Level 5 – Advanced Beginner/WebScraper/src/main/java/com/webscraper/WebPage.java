@@ -1,4 +1,4 @@
-package com.webscraper;
+package WebScraper.src.main.java.com.webscraper;
 
 public class WebPage {
     private final String url;

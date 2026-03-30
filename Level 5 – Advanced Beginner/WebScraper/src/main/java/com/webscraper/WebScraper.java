@@ -1,4 +1,4 @@
-package com.webscraper;
+package WebScraper.src.main.java.com.webscraper;
 
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
