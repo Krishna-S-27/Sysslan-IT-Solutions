@@ -1,0 +1,5 @@
+Project Plan
+------------
+1. Collect source files.
+2. Run the automated backup job.
+3. Verify snapshot and zip archive.

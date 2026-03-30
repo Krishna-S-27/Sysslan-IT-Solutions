@@ -1,4 +1,4 @@
-package WebScraper.src.main.java.com.webscraper;
+package com.webscraper;
 
 public class ScrapedLink {
     private final String text;

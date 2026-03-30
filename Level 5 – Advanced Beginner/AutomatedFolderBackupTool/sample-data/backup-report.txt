@@ -1,0 +1,16 @@
+AUTOMATED FOLDER BACKUP REPORT
+Started At      : 2026-03-30T22:21:14.041282900
+Completed At    : 2026-03-30T22:21:14.147286800
+Duration        : 106 ms
+Backup Type     : INCREMENTAL
+Source Directory: D:\Sysslan_IT_Solutions\Level 5 – Advanced Beginner\AutomatedFolderBackupTool\sample-data\source
+Snapshot Folder : D:\Sysslan_IT_Solutions\Level 5 – Advanced Beginner\AutomatedFolderBackupTool\sample-data\backups\backup_20260330_222114
+Files Copied    : 0
+Files Skipped   : 3
+Mirror Deletes  : 0
+Bytes Copied    : 0
+ZIP Archive     : D:\Sysslan_IT_Solutions\Level 5 – Advanced Beginner\AutomatedFolderBackupTool\sample-data\backups\backup_20260330_222114.zip
+
+Processed Files
+----------------
+No files were copied during this run.

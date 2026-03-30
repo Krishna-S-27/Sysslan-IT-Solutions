@@ -1,0 +1,29 @@
+PERSONAL FILE ANALYTICS REPORT
+Generated At : 2026-03-30T22:24:36.145
+Files Scanned: 4
+Total Bytes  : 431
+
+Extension Counts
+----------------
+.csv: 1
+.log: 1
+.md: 1
+.txt: 1
+
+Top Words
+---------
+backup: 4
+inventory: 4
+and: 3
+report: 3
+alex: 2
+completed: 2
+done: 2
+info: 2
+
+Per File Summary
+----------------
+daily-notes.txt | .txt | 146 bytes | lines=2 | words=22 | characters=146
+readme.md | .md | 83 bytes | lines=3 | words=14 | characters=83
+system.log | .log | 108 bytes | lines=3 | words=14 | characters=108
+tasks.csv | .csv | 94 bytes | lines=4 | words=7 | characters=94

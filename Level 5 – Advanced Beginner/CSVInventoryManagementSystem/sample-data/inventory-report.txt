@@ -1,0 +1,23 @@
+CSV INVENTORY MANAGEMENT REPORT
+Generated At : 2026-03-30T22:24:36.115
+Product Count: 5
+Total Value  : 2666.35
+
+Category Counts
+---------------
+Accessories: 2
+Connectivity: 1
+Displays: 1
+Storage: 1
+
+Low Stock Products
+------------------
+No low stock products.
+
+Current Inventory
+-----------------
+P1001 | Wireless Mouse | Accessories | Qty: 14 | Price: 24.50 | Value: 343.00
+P1002 | Mechanical Keyboard | Accessories | Qty: 9 | Price: 69.99 | Value: 629.91
+P1003 | USB-C Hub | Connectivity | Qty: 18 | Price: 18.75 | Value: 337.50
+P1004 | 27 Inch Monitor | Displays | Qty: 4 | Price: 189.00 | Value: 756.00
+P1005 | Portable SSD 1TB | Storage | Qty: 6 | Price: 99.99 | Value: 599.94

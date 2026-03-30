@@ -1,0 +1,6 @@
+id,name,category,quantity,price,reorderLevel
+P1001,Wireless Mouse,Accessories,14,24.50,5
+P1002,Mechanical Keyboard,Accessories,9,69.99,3
+P1003,USB-C Hub,Connectivity,18,18.75,8
+P1004,27 Inch Monitor,Displays,4,189.00,2
+P1005,Portable SSD 1TB,Storage,6,99.99,4
