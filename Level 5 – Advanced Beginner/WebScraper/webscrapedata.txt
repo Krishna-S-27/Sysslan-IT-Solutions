@@ -1,0 +1,14 @@
+WEB SCRAPING REPORT
+============================================================
+Generated: 2026-03-30 21:46:21
+
+SCRAPED PAGES
+------------------------------------------------------------
+URL: https://timesofindia.indiatimes.com/city/bengaluru/fresh-sops-hostels-govt-canteens-to-get-lpg-refills-on-priority/articleshow/129892698.cms
+Title: Karnataka issues fresh SOPs: Hostels, govt canteens to get LPG refills on priority | Bengaluru News - The Times of India
+Status: 200
+Scraped At: 2026-03-30 21:43:55
+Content Preview: Edition IN IN US GCC English English हिन्दी मराठी ಕನ್ನಡ தமிழ் বাংলা മലയാളം తెలుగు ગુજરાતી Weather Sign In TOI City benga...
+
+SCRAPED LINKS
+------------------------------------------------------------
